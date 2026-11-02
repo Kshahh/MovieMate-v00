@@ -13,8 +13,6 @@ MovieList focuses on a familiar mobile experience: browse a list of movies, tap 
 - **Swipe to delete:** Remove entries from the currently displayed movie list.
 - **Adaptive layouts:** Designed to work across different iPhone screen sizes.
 
-> **Implementation note:** The features above reflect the project specification. Before publishing, confirm that each one is present in the final code and demo; remove anything that was not implemented.
-
 ## Demo
 
 🎥 **[Watch the app demo](https://youtu.be/bE9cy0upkLE)**

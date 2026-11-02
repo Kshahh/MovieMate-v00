@@ -17,9 +17,7 @@ MovieList focuses on a familiar mobile experience: browse a list of movies, tap 
 
 ## Demo
 
-🎥 **[Watch the app demo](YOUR_YOUTUBE_VIDEO_URL)**
-
-_Add screenshots or a short GIF here to show the movie list, detail screen, and image gallery._
+🎥 **[Watch the app demo](https://youtu.be/bE9cy0upkLE)**
 
 ## Tech Stack
 
@@ -86,11 +84,7 @@ This is a **conceptual data-flow diagram**, not a verified representation of the
 
 ### Run locally
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Kshahh/YOUR_REPOSITORY_NAME.git
-   cd YOUR_REPOSITORY_NAME
-   ```
+1. Clone the repository
 2. Open the project's `.xcodeproj` or `.xcworkspace` file in Xcode.
 3. Configure your own TMDB credentials using the method supported by the codebase.
 4. Select an iPhone simulator and run the application.

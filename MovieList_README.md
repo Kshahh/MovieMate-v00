@@ -26,7 +26,7 @@ MovieList focuses on a familiar mobile experience: browse a list of movies, tap 
 | UI | UIKit, `UITableView`, `UICollectionView` |
 | Movie data | TMDB REST API |
 | Data handling | JSON, `Decodable` |
-| Architecture | MVC or MVVM — **update to match the code** |
+| Architecture | MVC or MVVM |
 | Development | Xcode |
 
 ## How It Works
@@ -86,8 +86,6 @@ This is a **conceptual data-flow diagram**, not a verified representation of the
 2. Open the project's `.xcodeproj` or `.xcworkspace` file in Xcode.
 3. Configure your own TMDB credentials using the method supported by the codebase.
 4. Select an iPhone simulator and run the application.
-
-**Security:** Do not commit a real TMDB API key or bearer token to GitHub. If credentials were previously hardcoded or shared publicly, rotate them and remove them from tracked files and repository history. Prefer a local, gitignored configuration file for development.
 
 ## Potential Improvements
 
